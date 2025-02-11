@@ -1,0 +1,74 @@
+![](https://i.ibb.co/5YLVtzs/Loadingscreen-1920x1080.png)
+
+# Simpers Paradise Chernarus DayZ Server
+
+* We offer active admins that are frequently online and available to help players and/or ban players who break server rules.
+* Join our [Discord](https://discord.gg/snRbp8wx56) for up-to-date server info, events, giveaways, support and announcements.
+* 99% Uptime w/ scheduled maintenance and scheduled reboot's to prevent congestion
+* [Enterprise grade ticket system](https://discord.gg/snRbp8wx56) with ingame logging system for chat/kills/basebuilding/raiding.
+
+## [Server Content Information](https://discord.gg/snRbp8wx56)
+
+* 150k Start with Banking, and 3 Safezones w/ Traders (Green Mountain, Klen and Altar)
+* Black Market Trader (Lapatino Area Castle)
+* Completely Custom loot table to make sure you aren't looting for hours with no payout.
+* Basebuilding with custom Raiding. 
+* Heli's w/ custom heli trader.
+* Kill Feed
+* Spawn Select
+* Toxic Zone at Prison Island with SuperMax Prison Mod and High Tier Loot Awards
+* Drug/Pelt Trader (Prison Island)
+* AirDrop's
+* 150+ Weapons w/ attatchment's and 100+(If not more) Custom gear.
+* Server Information Panel to keep you up to date on all rules/hotkeys in the server.
+* Drug's
+* 20+ Vehicle's w/ Vehicle Godmode for those buggy server stutter's that dayz dev's cannot fix.
+* Party system to prevent TKing your buddies.
+* Unlimited Run/Sprint
+* Raiding is set up T1-1HP, T2-4HP, T3-6HP.
+* HomeMadeBreachingCharge Hits 1HP ,  HeavyBreachingCharge Hits 2HP. 
+
+###### Join our [Discord](https://discord.gg/snRbp8wx56) to stay aware with the community, and get updates of any upcoming event's on the server ######
+
+### Building Rules
+
+* Building within 200M of a Military.
+* Building in a Police, Prison (US1), Hunting, Fire Station, Hospital building. (Castles Allowed). 
+* Building within 800M of ANY trader 
+* Blocking Roads with Bases. (You can build over the road, however you must leave space for every vehicle) 
+* Base must contain at least one raidable entrance. EX. A group must scope out a base to know which (window, door, opening) to go through so they are not wasting raid materials. This is up to the raider to figure this out (Groups that exploit Slow loading to see through walls will be punished). However, Tents must still be used as the sole purpose of storage and not simply to block entrances
+* Skybases (Floating bases), Skybases will be deleted with no warning. 
+* WatchTower Stacking past 1 Tower (only 1 kit allowed) 1 kit = 3 floors. (This avoids misplacing and not having all 4 corners touching.)
+* Bases will be considered abandoned if the owner(s) of the base hasn't connected to the server to defend the base within 7 days
+* Upon request, we will delete abandoned bases and its contents so that players may base there.
+* No tent stacking. 
+* Building bigger than a 3x3x6. (Your base can be no more than 6 floors. Counting the ground floor.) anything past 6 floors will be deleted without warning!
+* Exploiting Bounty System: Teammates/Friends killing each other to obtain awards. This also includes making deals.
+* Combat Logging: You must wait a minimum of 10 minutes before logging out after taking or dealing damage. In the case of crashes, you have a 5 minute grace period to log back in.
+* Cars left for longer than 12 hours in the safe zone, will be automatically deleted. PARK YOUR SHIT AT YOUR BASE!
+* No stealing from safezone
+* No safezone strafing
+
+#### [Raiding Rules](https://discord.gg/snRbp8wx56)
+
+* Raiding needs to be done in a realistic way. No stacking of ANY ITEMS, floating objects, dismantling through walls or objects, etc. 
+* No Stacking of ANY ITEMS. 
+* Absolutely NO FLOATING ITEMS, Any item placed must touch the ground. All four corners of Watchtowers must touch the ground. 
+* Do not dismantle from the outside of the base. 
+* Do not block entrances while raiding to hold progress.  
+* You ARE NOT allowed to take over someone's base  
+* You ARE NOT allowed to block entrances to anyone's base. This includes but not limited to (tents,doors, gates, gun cabinets). 
+* While Raiding do not lock tents, doors, gates with your own locks. Do not build or place any items to block access to the base at anytime.  
+* Do not Grab items through walls.  
+* You may buddy boost (Stand on a friends head), Build watchtowers, Stand on top of vehicles, etc. to get over walls and into bases that are not secured with a roof 
+* If you spawn in inside a base (whether that be fresh spawn or due to inactivity), make a ticket and an admin will TP you out. You may not raid the base if you spawn inside!. 
+* Do not log out in someone’s base without permission. (Ghosting) 
+* Do not dismantle someone else’s territory flag.
+
+##### Faction Rules
+
+* Faction's are to be no larger then 8 member's
+* Faction's must be registered with the google form under #faction-registration
+* In order to get a discord Role/Channel's your faction members must all have over 24 Hours of individual tracked playtime on the server. (We track through rcon)
+
+#### Server rules are subject to change at any given moment in time. Please pay attention to [Discord](https://discord.gg/snRbp8wx56) and server news to stay aware!
